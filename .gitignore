@@ -1,0 +1,9 @@
+# Fichiers générés par la compilation
+build/
+build.log
+check.log
+Diagnostic.command
+
+# macOS / iCloud
+.DS_Store
+*.icloud

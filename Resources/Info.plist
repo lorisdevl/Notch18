@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>fr</string>
+    <key>CFBundleExecutable</key>
+    <string>Notch18</string>
+    <key>CFBundleIdentifier</key>
+    <string>fr.loris.Notch18</string>
+    <key>CFBundleName</key>
+    <string>Notch18</string>
+    <key>CFBundleDisplayName</key>
+    <string>Notch18</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.utilities</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Notch18 pilote Spotify et Musique pour afficher et contrôler ce que tu écoutes.</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>Notch18 affiche tes prochains événements dans l'encoche.</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Notch18 affiche tes prochains événements dans l'encoche.</string>
+    <key>NSRemindersFullAccessUsageDescription</key>
+    <string>Notch18 affiche tes rappels et te permet de les cocher.</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>Notch18 affiche tes rappels et te permet de les cocher.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Notch18 utilise la caméra uniquement pour l'onglet Miroir.</string>
+    <key>NSLocationUsageDescription</key>
+    <string>macOS exige la localisation pour lire le nom du réseau Wi-Fi. Elle n'est utilisée pour rien d'autre.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>macOS exige la localisation pour lire le nom du réseau Wi-Fi. Elle n'est utilisée pour rien d'autre.</string>
+</dict>
+</plist>
